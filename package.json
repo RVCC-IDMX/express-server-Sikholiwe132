@@ -1,18 +1,7 @@
 {
-  "name": "express-server-sikholiwe132",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "Sikholiwe Sibisi <genesissibisi@gmail.com> (https://github.com/Sikholiwe132)",
-  "license": "MIT",
-  "devDependencies": {
-    "@eslint/create-config": "^0.4.6",
-    "eslint": "^8.54.0",
-    "eslint-config-airbnb-base": "^15.0.0",
-    "eslint-plugin-import": "^2.29.0"
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
   }
 }

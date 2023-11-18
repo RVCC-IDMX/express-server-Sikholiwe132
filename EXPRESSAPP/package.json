@@ -1,0 +1,19 @@
+{
+  "name": "express-server-sikholiwe132",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Sikholiwe Sibisi <genesissibisi@gmail.com> (https://github.com/Sikholiwe132)",
+  "license": "MIT",
+  "devDependencies": {
+    "@eslint/create-config": "^0.4.6",
+    "eslint": "^8.54.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.0"
+  }
+}
